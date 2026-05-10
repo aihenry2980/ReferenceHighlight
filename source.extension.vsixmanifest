@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
-    <Identity Id="ReferenceHighlight.4e9cc2f2-8b7b-402c-a749-039757608d9c" Version="1.0.10" Language="en-US" Publisher="jxin" />
+    <Identity Id="ReferenceHighlight.4e9cc2f2-8b7b-402c-a749-039757608d9c" Version="1.0.10" Language="en-US" Publisher="JIN XIN" />
     <DisplayName>Reference Highlight</DisplayName>
     <Description xml:space="preserve">Enlarges Find All References results and differentiates Read versus Write references with separate highlight colors.</Description>
     <Icon>Assets\ExtensionIcon.png</Icon>
