@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ReferenceHighlight.csproj">
+    <Deploy />
+  </Project>
+</Solution>
